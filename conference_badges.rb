@@ -13,7 +13,7 @@ end
 
 
 def assign_rooms(attendees)
-  
+
   room_assignments =[]
   attendees.each do |attendee|
     room = 1
