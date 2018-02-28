@@ -25,13 +25,6 @@ end
 
 def printer(assign_rooms, batch_badge_creator)
 
-  final = []
-  batch_badge_creator.each do |name|
-    final.push(batch_badge_creator)
-  end
-
-
-  final 
 
 
 
