@@ -25,7 +25,7 @@ end
 
 
 def printer(badges)
-  badges do |attendees|
+  badges.each do |attendees|
       puts badges
   end
 
