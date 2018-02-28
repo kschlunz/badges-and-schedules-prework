@@ -15,11 +15,11 @@ end
 def assign_rooms(batch_badge_creator)
 
   room_assignments =[]
-  batch_badge_creator.each do |attendee|
+  batch_badge_creator.each do |attendees|
     room = 1
     room +=1
-    room_assignments.push("Hello, #{name}! You'll be assigned to room #{room}!")
-    
+    room_assignments.push("Hello, #{attendees}! You'll be assigned to room #{room}!")
+
   end
   room_assignments
 end
