@@ -30,7 +30,7 @@ def printer(batch_badge_creator)
   end
 
   room_assignments.each do |y|
-    puts y 
+    puts y
   end 
 
 
