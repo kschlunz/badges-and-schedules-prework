@@ -29,7 +29,7 @@ def printer(batch_badge_creator)
       puts badges
   end
 
-  
+
 
 
 
