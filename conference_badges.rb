@@ -19,7 +19,7 @@ def assign_rooms(batch_badge_creator)
 
 
 
-    room_assignments.push("Hello, #{attendees}! You'll be assigned to room #{1+=}!")
+    room_assignments.push("Hello, #{attendees}! You'll be assigned to room #{1+}!")
 
   end
   room_assignments
