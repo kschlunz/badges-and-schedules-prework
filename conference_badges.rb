@@ -30,7 +30,7 @@ def printer(assign_rooms, batch_badge_creator)
   end
 
 
-  end
+  
 
 
 
